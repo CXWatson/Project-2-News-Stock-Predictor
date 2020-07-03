@@ -1,1 +1,2 @@
-# Project-2-Sentiment-Driven-Algotrader
+# Project 2 Sentiment Driven Algotrader
+This project is to utilize news sentiment to predict stock movement. In order to do this, we will use sentiment to trigger buy and sell signals of stock. This will cover NLP and trading in terms of data. We will be sourcing our data from the News API and Pandas Data Reader as our data sources. We will fit to machine learning models to backtest and compare results.
